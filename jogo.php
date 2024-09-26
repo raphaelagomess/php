@@ -36,6 +36,6 @@ else if($jogador2 === "papel"){
 else if($jogador2 === "tesoura"){
     echo "Empate!\n";
 }
-
+}
 
 
